@@ -10,9 +10,11 @@ wheels/
 
 # Virtual environments
 .venv
-
-# uv
-uv.lock
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
 
 # Django
 *.log
